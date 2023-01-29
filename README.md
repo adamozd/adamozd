@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C,C++,Android Development and specific libraries related to Python**
 
-- I'm a great enthusiast of movies, boxing, soccer and many more!
+- I'm a great enthusiast of music, movies, boxing, soccer and many more!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
