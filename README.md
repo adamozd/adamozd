@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Connecthlete](https://github.com/Connecthelete/connecthlete)
 
-- 🌱 I’m currently learning **C,C++,Android Development and specific libraries related to Python**
+- 🌱 I’m currently learning **C++,Android Development and specific libraries related to Python and Java!**
 
 - I'm a great enthusiast of music, movies, boxing, soccer and many more!
 
