@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on Image Classification using Deep Learning methods and a secret side project.
 
-- 🌱 I’m currently learning **C++,Android Development and specific libraries related to Python and Java!**
+- 🌱 I’m currently learning **C++,Android Development, SQL, and specific libraries related to Python and Java!**
 
-- I'm a great enthusiast of music, movies, boxing, soccer and many more!
+- I'm a great enthusiast of music, movies, soccer and many more!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
