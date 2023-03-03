@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamozd&label=Profile%20views&color=0e75b6&style=flat" alt="adamozd" /> </p>
 
-- 🔭 I’m currently working on Image Classification using Deep Learning methods.
+- 🔭 I’m currently working on Image Classification using Deep Learning methods and a secret side project.
 
 - 🌱 I’m currently learning **C++,Android Development and specific libraries related to Python and Java!**
 
