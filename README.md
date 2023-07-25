@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Adem Ozdemir</h1>
-<h3 align="center">I'm an aspiring game developer and passionate computer science student at Toronto Metropolitan University.</h3>
+<h3 align="center">I'm an aspiring software developer and passionate computer science student at Toronto Metropolitan University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamozd&label=Profile%20views&color=0e75b6&style=flat" alt="adamozd" /> </p>
 
