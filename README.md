@@ -28,13 +28,7 @@ Azure · AWS · Firebase · Git · Jira · Terraform
 ---
 
 ### 🐍 Contribution Snake
-![Snake animation](https://github.com/adamozd/adamozd/blob/output/github-contribution-grid-snake.svg)
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamozd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Adem's GitHub Stats" />
-</div>
+![Snake animation](https://raw.githubusercontent.com/adamozd/adamozd/output/github-contribution-grid-snake.svg)
 
 ---
 
