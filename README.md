@@ -8,8 +8,6 @@ I am a Computer Science student at **Toronto Metropolitan University** (Class of
 
 ### 🛠️ Languages & Tools
 
-### 🛠️ Languages & Tools
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -34,7 +32,7 @@ I am a Computer Science student at **Toronto Metropolitan University** (Class of
 
 ### 🔭 Experience
 
-- 💼 **Cloud & Software Engineering Intern @ EY**: Part of the Cloud & SWE teams working on AI-driven DevOps solutions and Azure cloud infrastructure 🛠️
+- 💼 **Cloud & SWE Intern @ Ernst&Young**: Part of the Cloud & SWE teams working on AI-driven DevOps solutions and Azure cloud infrastructure 🛠️
 - 💼 **Business Analyst Intern (App Dev) @ Enbridge**: Supported the Application Development team by building internal visualization tools and observability dashboards.
 - 💼 **Technical & Business Solutions Intern @ Messagepoint**: Collaborated with the Business Solutions Delivery team to automate implementation workflows and manage API integrations.
 
