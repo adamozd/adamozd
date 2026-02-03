@@ -8,7 +8,9 @@ I am a Computer Science student at **Toronto Metropolitan University** (Class of
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
+### 🛠️ Languages & Tools
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -42,7 +44,7 @@ I am a Computer Science student at **Toronto Metropolitan University** (Class of
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
-</p>
+</div>
 
 ---
 
