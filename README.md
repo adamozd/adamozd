@@ -42,7 +42,7 @@ I am a Computer Science student at **Toronto Metropolitan University** (Class of
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Adem's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adamozd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Adem's GitHub Stats" />
 </div>
 
 ---
