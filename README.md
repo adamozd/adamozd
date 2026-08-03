@@ -24,12 +24,6 @@ Azure · AWS · Firebase · Git · Jira · Terraform
 - 💼 **Business Analyst Intern (App Dev) @ Enbridge**: Supported the Application Development team by building internal visualization tools and observability dashboards.
 - 💼 **Technical & Business Solutions Intern @ Messagepoint**: Collaborated with the Business Solutions Delivery team to automate implementation workflows and manage API integrations.
 
-
----
-
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/adamozd/adamozd/output/github-contribution-grid-snake.svg)
-
 ---
 
 ### 📫 Connect with me
